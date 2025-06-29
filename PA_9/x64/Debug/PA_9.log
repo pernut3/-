@@ -1,0 +1,38 @@
+﻿  有彩蛋的.cpp
+C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(80,23): warning C4305: “-=”: 从“double”到“T”截断
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(80,23): warning C4305:         with
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(80,23): warning C4305:         [
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(80,23): warning C4305:             T=float
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(80,23): warning C4305:         ]
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(87,23): warning C4305: “-=”: 从“double”到“T”截断
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(87,23): warning C4305:         with
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(87,23): warning C4305:         [
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(87,23): warning C4305:             T=float
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(87,23): warning C4305:         ]
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(94,23): warning C4305: “-=”: 从“double”到“T”截断
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(94,23): warning C4305:         with
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(94,23): warning C4305:         [
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(94,23): warning C4305:             T=float
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(94,23): warning C4305:         ]
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(101,23): warning C4305: “-=”: 从“double”到“T”截断
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(101,23): warning C4305:         with
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(101,23): warning C4305:         [
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(101,23): warning C4305:             T=float
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\Book.hpp(101,23): warning C4305:         ]
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\MiscFunctions.hpp(29,28): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\MiscFunctions.hpp(39,32): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\MiscFunctions.hpp(49,30): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\MiscFunctions.hpp(50,30): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\MiscFunctions.hpp(51,30): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\testCases.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(70,28): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(78,28): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(97,29): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(101,27): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(106,34): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(107,34): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(108,34): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(124,28): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\HuaweiMoveData\Users\37847\Desktop\PA_9\PA_9\有彩蛋的.cpp(137,23): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  PA_9.vcxproj -> D:\HuaweiMoveData\Users\37847\Desktop\PA_9\x64\Debug\PA_9.exe
