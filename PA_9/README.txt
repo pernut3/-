@@ -1,8 +1,3 @@
-团队成员：
-Isaiah Foster - 实验室 2
-Dylan Hale - 实验室 12
-Justin Scofield - 实验室 7
-Aaron Sanchez - 实验室 10
 
 游戏玩法：
 按空格键开始游戏。
