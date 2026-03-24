@@ -1,16 +1,14 @@
-Team Members:
-	1. Isaiah Foster - LAB 2
-	2. Dylan Hale - LAB 12
-	3. Justin Scofield - LAB 7
-	4. Aaron Sanchez - LAB 10
+团队成员：
+Isaiah Foster - 实验室 2
+Dylan Hale - 实验室 12
+Justin Scofield - 实验室 7
+Aaron Sanchez - 实验室 10
 
-How to Play:
-	1. Hit space to start the game
-	2. Move you character left and right with arrow keys
-	3. Press/hold space to shoot
-	4. Shoot the books and don't let them hit you! they spawn more frequently as the game continues
-	5. If you die, press ESC to play again and E to exit the game
-	6. Get the highest score you can!
-
-Link to YouTube demonstration:
-	1. https://youtu.be/2qc2NMwbtmQ
+游戏玩法：
+按空格键开始游戏。
+使用方向键左右移动角色。
+按下或按住空格键射击。
+击落书本，切勿被它们击中！随着游戏进行，书本的出现频率会逐渐增加。
+若游戏结束，按 ESC 键重玩，按 E 键退出。
+尽力获取最高分！
+另一个版本加入了动画特效和搞怪的图案和劳大，在fzh的仓库里。
